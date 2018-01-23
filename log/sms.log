@@ -1,0 +1,8 @@
+2018-01-23 10:24:25 [mainhread] com.nwx.main.SmsServer.init(SmsServer.java:72)evel com.nwx.main.SmsServer.init(SmsServer.java:72)ogger[72] - 创建数据库连接池
+2018-01-23 10:24:25 [mainhread] com.jolbox.bonecp.BoneCPConfig.setReleaseHelperThreads(BoneCPConfig.java:618)evel com.jolbox.bonecp.BoneCPConfig.setReleaseHelperThreads(BoneCPConfig.java:618)ogger[618] - releaseHelperThreads has been deprecated -- it tends to slow down your application more.
+2018-01-23 10:24:26 [mainhread] com.nwx.main.SmsServer.init(SmsServer.java:74)evel com.nwx.main.SmsServer.init(SmsServer.java:74)ogger[74] - 创建数据库连接池完成！
+2018-01-23 10:24:36 [pool-2-thread-1hread] com.nwx.main.SmsServer.loadUserInfo(SmsServer.java:93)evel com.nwx.main.SmsServer.loadUserInfo(SmsServer.java:93)ogger[93] - UserBean{userId=1, userName='admin', userPwd='1'}
+2018-01-23 10:24:36 [pool-2-thread-1hread] com.nwx.main.SmsServer.loadUserInfo(SmsServer.java:93)evel com.nwx.main.SmsServer.loadUserInfo(SmsServer.java:93)ogger[93] - UserBean{userId=2, userName='wcl', userPwd='1'}
+2018-01-23 10:24:41 [mainhread] com.nwx.main.SmsServer.init(SmsServer.java:72)evel com.nwx.main.SmsServer.init(SmsServer.java:72)ogger[72] - 创建数据库连接池
+2018-01-23 10:24:41 [mainhread] com.jolbox.bonecp.BoneCPConfig.setReleaseHelperThreads(BoneCPConfig.java:618)evel com.jolbox.bonecp.BoneCPConfig.setReleaseHelperThreads(BoneCPConfig.java:618)ogger[618] - releaseHelperThreads has been deprecated -- it tends to slow down your application more.
+2018-01-23 10:24:42 [mainhread] com.nwx.main.SmsServer.init(SmsServer.java:74)evel com.nwx.main.SmsServer.init(SmsServer.java:74)ogger[74] - 创建数据库连接池完成！
